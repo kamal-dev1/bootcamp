@@ -1,7 +1,0 @@
-kamal gharejeloo
-<<<<<<< HEAD
-zohre nemati
-=======
-Amirhossein almasi
-mehran kaj
->>>>>>> 7e8c2b31387a6210fe2d76d0c16758c6b09de8ad
